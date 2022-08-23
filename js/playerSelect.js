@@ -22,6 +22,6 @@ function selectedFivePlayer(element) {
         addPlayer.appendChild(li);
     }
     else {
-        alert('max player selection completed')
+        alert('Cant Select More.Reached Max')
     }
 }
